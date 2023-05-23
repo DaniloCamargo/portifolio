@@ -1,6 +1,6 @@
 # Portifolio
 
-Segue meus conhecimentos sites, sistemas e app que fiz.
+Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 
 ## Contato
 **email:** danilo.omnis@gmail.com
