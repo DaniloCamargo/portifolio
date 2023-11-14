@@ -23,7 +23,7 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 
 ## Conhecimentos
 
- | | | 
+1 | 2 | 3 | 4
 ---------|----------|----------|----------
 Bootstrap - avançado | Nodejs - intermediário | Angular - intermediário | ReactJS - intermediário  |
 Wordpress - intermediário | SilverStripe - avançado | Javascript - avançado | Php - intermediário  |
