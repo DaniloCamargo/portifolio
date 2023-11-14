@@ -8,21 +8,22 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 
 ## Conhecimentos
 - Bootstrap - avançado
-- Nodejs - intermediario
-- Angular - básico
-- ReactJS - intermediario
-- Wordpress - intermediario
+- Nodejs - intermediário
+- Angular - intermediário
+- ReactJS - intermediário
+- Wordpress - intermediário
 - SilverStripe - avançado
 - Javascript - avançado
-- Php - intermediario
+- Php - intermediário
 - Jquery - avançado
 - CSS - avançado
-- ShellScript - básico
+- ShellScript - intermediário
 - C# - básico
-- mySQL - básico
-- Ionic - intermediario
-- MongoDB - básico
-- Git - intermediario
+- mySQL - intermediário
+- Ionic - intermediário
+- MongoDB - intermediário
+- Git - intermediário
+- Python - intermediário
 
 ## Sites
 - [Funerária Araújo – Orsola](https://www.orsola.com.br/)
@@ -34,7 +35,7 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 - [STR Estruturas](https://www.strestruturas.com.br/)
 
 ## Sistemas
-- [Salestag TV](https://salestag.com.br/produtos/salestag-tv/)
+- [CartazTV](https://cartaztv.com.br/)
 - OS Controller
 - ScanProduct
 - Salestag Print
