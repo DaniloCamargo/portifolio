@@ -38,7 +38,6 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 - [CartazTV](https://cartaztv.com.br/)
 - OS Controller
 - ScanProduct
-- Salestag Print
 
 ## App
 - [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg)
