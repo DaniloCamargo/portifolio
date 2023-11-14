@@ -1,5 +1,19 @@
 # Portifolio
 
+Desenvolvedor Web Freelancer Disponível!
+
+Olá, pessoal! 👋
+Me chamo Danilo e sou um desenvolvedor com experiência fullstack web e react, nodejs e php com experiência em frontend e backend, pronto para transformar suas ideias em realidade digital! 💻
+
+🎨 O que posso fazer por você:
+
+Sites modernos e responsivos.
+Sistemas web personalizados.
+Manutenção e suporte técnico.
+Se você precisa de um projeto web incrível, estou aqui para ajudar! Entre em contato pelo inbox ou WhatsApp: 19 9 9133-9110 📱
+
+Mal posso esperar para colaborar com vocês!🌐
+
 Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 
 ## Contato
