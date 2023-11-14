@@ -4,7 +4,7 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 
 ## Contato
 **email:** danilo.omnis@gmail.com
-**tel/whatsapp:** 19 9 9133-9110
+**whatsapp:** 19 9 9133-9110
 
 ## Conhecimentos
 - Bootstrap - avançado
