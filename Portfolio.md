@@ -10,7 +10,7 @@ Me chamo Danilo e sou um desenvolvedor com experiência fullstack web e react, n
 Sites modernos e responsivos.
 Sistemas web personalizados.
 Manutenção e suporte técnico.
-Se você precisa de um projeto web incrível, estou aqui para ajudar! Entre em contato pelo inbox ou WhatsApp: 19 9 9133-9110 📱
+Se você precisa de um projeto web incrível, estou aqui para ajudar!
 
 Mal posso esperar para colaborar com vocês!🌐
 
