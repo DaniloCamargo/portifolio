@@ -14,7 +14,7 @@ Se você precisa de um projeto web incrível, estou aqui para ajudar!
 
 Mal posso esperar para colaborar com vocês!🌐
 
-Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
+Segue meus conhecimentos sites, sistemas e app que fiz.
 
 ## Contato
 **Email:** danilo.omnis@gmail.com  
