@@ -22,22 +22,14 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 **Curriculo** [GoogleDoc Currículo](https://docs.google.com/document/d/0B5dzu6xaRp_JVlpaaXBfZjM5ZWc/edit?usp=sharing&ouid=112075751914954378152&resourcekey=0-1WXW1MafWrUos-V5CzT_GQ&rtpof=true&sd=true)
 
 ## Conhecimentos
-Coluna 1 | Coluna 2 | Coluna 3
----------|----------|----------
-Item 1    | Item 2   | Item 3
-Item 4    | Item 5   | Item 6
 
-- Bootstrap - avançado | - Nodejs - intermediário | - Angular - intermediário | - ReactJS - intermediário  |
-- Wordpress - intermediário | - SilverStripe - avançado | - Javascript - avançado | - Php - intermediário  |
-- Jquery - avançado
-- CSS - avançado
-- ShellScript - intermediário
-- C# - básico
-- mySQL - intermediário
-- Ionic - intermediário
-- MongoDB - intermediário
-- Git - intermediário
-- Python - intermediário
+1 | 2 | 3 | 3
+---------|----------|----------|----------
+Bootstrap - avançado | Nodejs - intermediário | Angular - intermediário | ReactJS - intermediário  |
+Wordpress - intermediário | SilverStripe - avançado | Javascript - avançado | Php - intermediário  |
+Jquery - avançado | CSS - avançado | ShellScript - intermediário | C# - básico  |
+mySQL - intermediário | Ionic - intermediário | MongoDB - intermediário | Git - intermediário  |
+Python - intermediário | | |  |
 
 ## Sites
 - [Funerária Araújo – Orsola](https://www.orsola.com.br/)
