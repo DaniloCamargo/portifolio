@@ -19,6 +19,7 @@ Segue meus conhecimentos sites, sistemas e app que fiz. (em andamento)
 ## Contato
 **email:** danilo.omnis@gmail.com
 **whatsapp:** [19 9 9133-9110](https://wa.me/19991339110?text=Ol%C3%A1%2C%20gostaria%20de%20desenvolver%20um%20site%2Fsistema%20web)
+**Curriculo** [GoogleDoc Currículo](https://docs.google.com/document/d/0B5dzu6xaRp_JVlpaaXBfZjM5ZWc/edit?usp=sharing&ouid=112075751914954378152&resourcekey=0-1WXW1MafWrUos-V5CzT_GQ&rtpof=true&sd=true)
 
 ## Conhecimentos
 - Bootstrap - avançado
