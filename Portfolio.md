@@ -9,6 +9,7 @@ Me chamo Danilo e sou um desenvolvedor com experiência fullstack web e react, n
 
 Sites modernos e responsivos.
 Sistemas web personalizados.
+Jogos web.
 Manutenção e suporte técnico.
 Se você precisa de um projeto web incrível, estou aqui para ajudar!
 
@@ -31,6 +32,10 @@ Segue meus conhecimentos sites, sistemas e app que fiz.
 **mySQL** - intermediário | **Ionic** - intermediário | **MongoDB** - intermediário | **Git** - intermediário  |
 **Python** - intermediário | **Laravel** - intermediário | |  |
 
+## Games
+- Luna Plenus - Em Desenvolvimento
+- [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg)
+
 ## Sites
 - [Funerária Araújo – Orsola](https://www.orsola.com.br/)
 - [ACISB – Associação Comercial e Industrial de Santa Bárbara d'Oeste](https://www.acisbsbo.com.br/)
@@ -41,7 +46,7 @@ Segue meus conhecimentos sites, sistemas e app que fiz.
 - [STR Estruturas](https://www.strestruturas.com.br/)
 
 ## Sistemas
-- [CartazTV](https://cartaztv.com.br/)
+- CartazTV
 - OS Controller
 - ScanProduct
 
