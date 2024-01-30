@@ -33,7 +33,7 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 **Python** - intermediário | **Laravel** - intermediário | **Microsoft Azure** - intermediário | |
 
 ## Games
-- Luna Plenus - Em Desenvolvimento
+- [Luna Plenus - Em Desenvolvimento](https://lunaplenus.azurewebsites.net/)
 - [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg)
 
 ## Sites
