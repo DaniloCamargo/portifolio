@@ -30,7 +30,7 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 **Wordpress** - intermediário | **SilverStripe** - avançado | **Javascript** - avançado | **Php** - intermediário  |
 **Jquery** - avançado | **CSS** - avançado | **ShellScript** - intermediário | **C#** - básico  |
 **mySQL** - intermediário | **Ionic** - intermediário | **MongoDB** - intermediário | **Git** - intermediário  |
-**Python** - intermediário | **Laravel** - intermediário | | **Microsoft Azure** - intermediário |
+**Python** - intermediário | **Laravel** - intermediário | **Microsoft Azure** - intermediário | |
 
 ## Games
 - Luna Plenus - Em Desenvolvimento
