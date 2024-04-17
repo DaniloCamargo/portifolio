@@ -18,11 +18,11 @@ Mal posso esperar para colaborar com vocês!🌐
 Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 
 ## Contato
-**Email:** danilo.omnis@gmail.com
-**Whatsapp/Tel:** [19 9 9582-0016](https://wa.me/19995820016?text=Ol%C3%A1%2C%20gostaria%20de%20desenvolver%20um%20site%2Fsistema%20web)  
-**Contato:** [Abrir](https://lunaplenus.azurewebsites.net/contato)
-**Facebook:** [Abrir](https://www.facebook.com/dany.abismo)
-**Curriculo:** [GoogleDoc Currículo](https://docs.google.com/document/d/0B5dzu6xaRp_JVlpaaXBfZjM5ZWc/edit?usp=sharing&ouid=112075751914954378152&resourcekey=0-1WXW1MafWrUos-V5CzT_GQ&rtpof=true&sd=true)
+- **Email:** danilo.omnis@gmail.com
+- **Whatsapp/Tel:** [19 9 9582-0016](https://wa.me/19995820016?text=Ol%C3%A1%2C%20gostaria%20de%20desenvolver%20um%20site%2Fsistema%20web)  
+- **Contato:** [Abrir](https://lunaplenus.azurewebsites.net/contato)
+- **Facebook:** [Abrir](https://www.facebook.com/dany.abismo)
+- **Curriculo:** [GoogleDoc Currículo](https://docs.google.com/document/d/0B5dzu6xaRp_JVlpaaXBfZjM5ZWc/edit?usp=sharing&ouid=112075751914954378152&resourcekey=0-1WXW1MafWrUos-V5CzT_GQ&rtpof=true&sd=true)
 
 ## Conhecimentos
 
