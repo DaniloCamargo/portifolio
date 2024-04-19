@@ -55,7 +55,9 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 ## App
 - [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg)
 
-## Imagens Jogo Luna Plenus
-![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio.webp)
-![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
+## Jogo Luna Plenus
 ![Apresentação Luna Plenus](/img/luna-plenus-apresentacao-01-13sec.webp)
+### Imagens Jogo Luna Plenus
+![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio.webp)
+### Imagens Luna Plenus - CMS, Mercantes, Skills, Skins, Status
+![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
