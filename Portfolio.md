@@ -1,6 +1,6 @@
 # Portfolio 
 
-Desenvolvedor Web Freelancer Disponível!
+Desenvolvedor Web
 
 Me chamo Danilo e sou um desenvolvedor com experiência fullstack web e react, nodejs e php com experiência em frontend e backend, pronto para transformar suas ideias em realidade digital!
 
