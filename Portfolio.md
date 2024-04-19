@@ -30,6 +30,13 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 **mySQL** - intermediário | **Ionic** - intermediário | **MongoDB** - intermediário | **Git** - intermediário  |
 **Python** - intermediário | **Laravel** - intermediário | **Microsoft Azure** - intermediário | |
 
+## Jogo Luna Plenus
+![Apresentação Luna Plenus](/img/luna-plenus-apresentacao-01-13sec.webp)
+### Imagens Jogo Luna Plenus
+![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio.webp)
+### Imagens Luna Plenus - CMS - Personagem, Maps, Criaturas, Skins, Items, Skills, Colisores, Limites de Mapa, Portals  / Jogo - Mercantes, Skills, Skins, Status
+![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
+
 Games | Sites | Sistemas | App
 ---------|----------|----------|----------
 | [Luna Plenus - Em Desenvolvimento](https://lunaplenus.azurewebsites.net/) | [Funerária Araújo – Orsola](https://www.orsola.com.br/) | CartazTV | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) |
@@ -39,10 +46,3 @@ Games | Sites | Sistemas | App
 | | [SalesTag](https://salestag.com.br/) | | |
 | | [Bar do Alemão de São Paulo](https://www.bardoalemaosp.com.br/) | | |
 | | [STR Estruturas](https://www.strestruturas.com.br/) | | |
-
-## Jogo Luna Plenus
-![Apresentação Luna Plenus](/img/luna-plenus-apresentacao-01-13sec.webp)
-### Imagens Jogo Luna Plenus
-![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio.webp)
-### Imagens Luna Plenus - CMS - Personagem, Maps, Criaturas, Skins, Items, Skills, Colisores, Limites de Mapa, Portals  / Jogo - Mercantes, Skills, Skins, Status
-![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
