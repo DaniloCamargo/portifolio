@@ -30,7 +30,7 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 **mySQL** - intermediário | **Ionic** - intermediário | **MongoDB** - intermediário | **Git** - intermediário  |
 **Python** - intermediário | **Laravel** - intermediário | **Microsoft Azure** - intermediário | |
 
-## Games | ## Sites | ## Sistemas | ## App
+Games | Sites | Sistemas | App
 | [Luna Plenus - Em Desenvolvimento](https://lunaplenus.azurewebsites.net/) | [Funerária Araújo – Orsola](https://www.orsola.com.br/) | CartazTV | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) |
 | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) | [ACISB – Associação Comercial e Industrial de Santa Bárbara d'Oeste](https://www.acisbsbo.com.br/) | OS Controller | |
 | | [Saci Soluções](https://www.sacisolucoes.com.br/) | ScanProduct | |
