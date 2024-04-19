@@ -2,20 +2,7 @@
 
 Desenvolvedor Web Freelancer Disponível!
 
-Olá, pessoal! 👋
-Me chamo Danilo e sou um desenvolvedor com experiência fullstack web e react, nodejs e php com experiência em frontend e backend, pronto para transformar suas ideias em realidade digital! 💻
-
-🎨 O que posso fazer por você:
-
-Sites modernos e responsivos.
-Sistemas web personalizados.
-Jogos web.
-Manutenção e suporte técnico.
-Se você precisa de um projeto web incrível, estou aqui para ajudar!
-
-Mal posso esperar para colaborar com vocês!🌐
-
-Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
+Segue alguns dos meus conhecimentos sites, sistemas e app, games que fiz.
 
 ## Contato
 - **Email:** danilo.omnis@gmail.com
