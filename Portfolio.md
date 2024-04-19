@@ -59,5 +59,5 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 ![Apresentação Luna Plenus](/img/luna-plenus-apresentacao-01-13sec.webp)
 ### Imagens Jogo Luna Plenus
 ![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio.webp)
-### Imagens Luna Plenus - CMS, Mercantes, Skills, Skins, Status
+### Imagens Luna Plenus - CMS - Personagem, Maps, Criaturas, Skins, Items, Skills, Colisores, Limites de Mapa, Portals  / Jogo - Mercantes, Skills, Skins, Status
 ![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
