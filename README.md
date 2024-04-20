@@ -37,12 +37,6 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 ### Imagens Luna Plenus - CMS - Personagem, Maps, Criaturas, Skins, Items, Skills, Colisores, Limites de Mapa, Portals  / Jogo - Mercantes, Skills, Skins, Status
 ![Apresentação Luna Plenus](/img/apresentacao-lunaplenus-portifolio-02.webp)
 
-# Apresentação Luna Plenus #1
-<video width="320" height="240" controls>
-  <source src="https://lunaplenus.azurewebsites.net/public/common/apresentacao-lunaplenus-01.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
-
 Games | Sites | Sistemas | App
 ---------|----------|----------|----------
 | [Luna Plenus - Em Desenvolvimento](https://lunaplenus.azurewebsites.net/) | [Funerária Araújo – Orsola](https://www.orsola.com.br/) | CartazTV | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) |
