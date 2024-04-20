@@ -39,13 +39,7 @@ Segue alguns dos meus conhecimentos sites, sistemas e app que fiz.
 
 # Apresentação Luna Plenus #1
 <video width="320" height="240" controls>
-  <source src="/videos/apresentacao-lunaplenus-01-parte1.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
-
-# Apresentação Luna Plenus #2
-<video width="320" height="240" controls>
-  <source src="/videos/apresentacao-lunaplenus-01-parte2.mp4" type="video/mp4">
+  <source src="videos/apresentacao-lunaplenus-01.mp4" type="video/mp4">
   Seu navegador não suporta a tag de vídeo.
 </video>
 
