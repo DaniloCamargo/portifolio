@@ -41,7 +41,7 @@ Games | Sites | Sistemas | App
 ---------|----------|----------|----------
 | [Luna Plenus - Em Desenvolvimento](https://lunaplenus.azurewebsites.net/) | [Funerária Araújo – Orsola](https://www.orsola.com.br/) | CartazTV | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) |
 | [WorkerRPG Alpha](https://play.google.com/store/apps/details?id=greed.workerrpg) | [ACISB – Associação Comercial e Industrial de Santa Bárbara d'Oeste](https://www.acisbsbo.com.br/) | OS Controller | |
-| | [Saci Soluções](https://www.sacisolucoes.com.br/) | ScanProduct | |
+| [Luna Tactics - Em Desenvolvimento](https://store.steampowered.com/app/3760410/Luna_Tactics) | [Saci Soluções](https://www.sacisolucoes.com.br/) | ScanProduct | |
 | | [LaserTec](https://www.lasertec.ind.br/) | | |
 | | [SalesTag](https://salestag.com.br/) | | |
 | | [Bar do Alemão de São Paulo](https://www.bardoalemaosp.com.br/) | | |
